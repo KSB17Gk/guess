@@ -1,3 +1,5 @@
+#© Lance/Fortesa
+
 import random
 
 zahl = random.randint (0,100)
